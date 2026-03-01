@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Artifacts
+artifacts/
+data_parquet/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# uv
+.venv/
