@@ -1,9 +1,3 @@
-Below is a **complete, professional README.md** tailored to your exact MCP + ML + SHAP + Parquet assignment. It assumes students clone from GitHub and use `uv`. It also anticipates the common Windows / VSCode issues you just encountered, so students won’t get stuck.
-
-You can copy-paste this directly.
-
----
-
 # MCP Machine Learning Agent
 
 This project demonstrates how to deploy Machine Learning models as **real MCP (Model Context Protocol) tools**. You will train Logistic Regression and KNN models, evaluate them, select the best model, generate SHAP explanations, and log results to Parquet — all exposed through an MCP server.
