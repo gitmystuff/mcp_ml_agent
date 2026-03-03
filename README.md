@@ -88,6 +88,12 @@ ls pyproject.toml
 
 In terminal, run:
 
+If (base) or any conda environment is showing in your command line path:
+
+```bash
+conda deactivate
+```
+
 ```bash
 uv sync
 ```
